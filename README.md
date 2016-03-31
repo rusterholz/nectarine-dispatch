@@ -1,2 +1,6 @@
 # nectarine-dispatch
-Dispatch console for Nectarine
+Dispatch Console for Nectarine.
+
+## Quick Start:
+* ``` npm install ```
+* ``` gulp server ```

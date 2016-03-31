@@ -1,0 +1,13 @@
+{
+  "name":         "@nectarine-dispatch/header",
+  "version":      "0.0.1",
+  "description":  "Header Component",
+  "main":         "Header.jsx",
+  "private":      true,
+  "license":      "UNLICENSED",
+  "dependencies": {
+    "@nectarine-dispatch/global-css": "*",
+    "react":        "15.0.0-rc.2",
+    "react-router": "^2.0.1"
+  }
+}

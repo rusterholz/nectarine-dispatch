@@ -1,0 +1,12 @@
+{
+  "name":         "@nectarine-dispatch/bookView",
+  "version":      "0.0.1",
+  "description":  "Book View Components",
+  "main":         "BookView.jsx",
+  "private":      true,
+  "license":      "UNLICENSED",
+  "dependencies": {
+    "react":        "15.0.0-rc.2",
+    "react-router": "^2.0.1"
+  }
+}

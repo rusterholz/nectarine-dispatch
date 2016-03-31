@@ -1,0 +1,11 @@
+{
+  "name":         "@nectarine-dispatch/NectarineAPI",
+  "version":      "0.0.1",
+  "description":  "Client Layer to Nectarine API",
+  "main":         "NectarineAPI.js",
+  "private":      true,
+  "license":      "UNLICENSED",
+  "dependencies": {
+    "lodash": "^4.6.1"
+  }
+}

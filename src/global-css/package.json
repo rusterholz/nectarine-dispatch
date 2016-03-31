@@ -1,0 +1,8 @@
+{
+  "name":         "@nectarine-dispatch/global-css",
+  "version":      "0.0.1",
+  "description":  "Global, non-scoped CSS",
+  "private":      true,
+  "license":      "UNLICENSED",
+  "encapsulateOptOut": true
+}
