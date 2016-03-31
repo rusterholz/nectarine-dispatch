@@ -10,6 +10,7 @@
     "@nectarine-dispatch/bookView":     "*",
     "@nectarine-dispatch/NectarineAPI": "*",
     "@nectarine-dispatch/header":       "*",
+    "moment":             "^2.12.0",
     "react":              "15.0.0-rc.2",
     "react-dom":          "15.0.0-rc.2",
     "react-redux":        "^4.4.1",
